@@ -11,7 +11,7 @@ Enter id or e-mail.
 Enter password.
 Enter the desired products tag (see below) and the amount to be held, with only commas between them. Use space to seperate each product-amount sets. 
 (i.e. "sto,500 oil,1000 pap,1000")
-# tags: alc, bre, clo, cot, flo, fre, fro, fur, gas, mar, new, oil, pap, pig, plk, pls, sau, sto, thr, toy, whe, woo.
+tags: alc, bre, clo, cot, flo, fre, fro, fur, gas, mar, new, oil, pap, pig, plk, pls, sau, sto, thr, toy, whe, woo.
 Tip: Leave inputs empty to use previous entry
 
 ---Support---
